@@ -5,5 +5,7 @@ name = "pypi"
 
 [packages]
 Nikola = "*"
+
+[dev-packages]
 aiohttp = "*"
 watchdog = "*"

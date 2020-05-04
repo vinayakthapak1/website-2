@@ -4,11 +4,7 @@ PYTHON=python3
 PIP=pip3
 PIPENV=pipenv
 TESTPYTHON:=$(shell $(PYTHON) --version 2>/dev/null)
-
-PELICAN?=pelican
-PELICANOPTS=
-
-LEKTOR?=lektor
+PIPENVOPTS=
 
 NIKOLA?=nikola
 
@@ -17,16 +13,10 @@ PORT?=8000
 BASEDIR=$(CURDIR)
 VENVDIR=$(BASEDIR)/venv
 ACTIVATE=$(VENVDIR)/bin/activate
-PYCACHE=$(BASEDIR)/__pycache__
 
-INPUTDIR=$(BASEDIR)/content
-OUTPUTDIR=$(BASEDIR)/output
-CONFFILE=$(BASEDIR)/pelicanconf.py
-PUBLISHCONF=$(BASEDIR)/publishconf.py
-
-DEBUG ?= false
-ifeq ($(DEBUG), true)
-	PELICANOPTS += -D
+MODE?=dev
+ifeq ($(MODE), dev)
+	PIPENVOPTS+=--dev
 endif
 
 help:
@@ -34,7 +24,7 @@ help:
 	@echo ''
 	@echo 'Usage:'
 	@echo '    make help                           Display help'
-	@echo '    make install                        Install Python dependencies in a virtual environment'
+	@echo '    make install [MODE=dev]             Install Python dependencies in a virtual environment'
 	@echo '    make build                          (re)generate the web site                           '
 	@echo '    make clean                          remove the generated files                          '
 	@echo '    make serve [PORT=8000]              serve site at http://localhost:8000                 '
