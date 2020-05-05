@@ -139,7 +139,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/news", 'News'),
+        ("/news/", 'News'),
     ),
 }
 
@@ -148,7 +148,7 @@ NAVIGATION_LINKS = {
 # (Bootstrap 4: right-side of navbar, Bootblog 4: right side of title)
 NAVIGATION_ALT_LINKS = {
     DEFAULT_LANG: (
-        ("/about", "About"),
+        ("/about/", "About"),
     ),
 }
 

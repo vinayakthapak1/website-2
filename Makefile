@@ -25,9 +25,9 @@ help:
 	@echo 'Usage:'
 	@echo '    make help                           Display help'
 	@echo '    make install [MODE=dev]             Install Python dependencies in a virtual environment'
-	@echo '    make build                          (re)generate the web site                           '
-	@echo '    make clean                          remove the generated files                          '
-	@echo '    make serve [PORT=8000]              serve site at http://localhost:8000                 '
+	@echo '    make build                          (Re)generate the web site                           '
+	@echo '    make clean                          Remove the generated files                          '
+	@echo '    make serve [PORT=8000]              Serve site at http://localhost:8000                 '
 	@echo '    make uninstall                      Uninstall python dependencies'
 
 check-python:
