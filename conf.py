@@ -139,7 +139,12 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/use/", "Use"),
+        ("/deploy/", "Deploy"),
+        ("/docs/", "Docs"),
         ("/news/", 'News'),
+        ("/publications/", 'Publications'),
+        ("/contact/", 'Contact')
     ),
 }
 
@@ -147,9 +152,7 @@ NAVIGATION_LINKS = {
 # although themes may not always support them. (translatable)
 # (Bootstrap 4: right-side of navbar, Bootblog 4: right side of title)
 NAVIGATION_ALT_LINKS = {
-    DEFAULT_LANG: (
-        ("/about/", "About"),
-    ),
+    DEFAULT_LANG: (),
 }
 
 # Name of the theme to use.

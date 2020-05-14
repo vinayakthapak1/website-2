@@ -7,12 +7,18 @@
 .. link: 
 .. description: 
 .. type: text
+.. hidetitle: true
 -->
 
-AskOmics is a fantastic tool
-
-
-- [Use AskOmics](https://use.askomics.org)
-- [Test AskOmics](https://test.askomics.org)
-
-
+<div class="jumbotron">
+  <h1 class="display-4">AskOmics</h1>
+  <p class="lead">
+      RDF data integration and visual SPARQL query interface
+  </p>
+  <hr class="my-4">
+  <p>
+    AskOmics aims at bridging the gap between both end user project-specific datasets and with reference databes and knowledge bases from the Linked (Open) Data cloud. It allows heterogeneous bioinformatics data (formatted as tabular files or native RDF files) to be loaded into an RDF triplestore and then be transparently and interactively queried.
+  </p>
+  <a class="btn btn-secondary btn-lg" href="/use/" role="button">Use »</a>
+  <a class="btn btn-secondary btn-lg" href="/deploy/" role="button">Deploy »</a>
+</div>
