@@ -21,9 +21,9 @@ AskOmics can be easily deploy with docker and docker-compose.
 
 ```bash
 # Debian/Ubuntu
-apt install -y docker-compose
+sudo apt install -y docker-compose
 # Fedora
-dnf install -y docker-compose
+sudo dnf install -y docker-compose
 ```
 
 ### Step 2: Get docker-compose files
@@ -39,8 +39,8 @@ git clone https://github.com/askomics/flaskomics-docker-compose.git
 
 ```bash
 cd flaskomics-docker-compose/standalone
-docker-compose pull
-docker-compose up -d
+sudo docker-compose pull
+sudo docker-compose up -d
 ```
 
 Your AskOmics will be available at [localhost](http://localhost)
