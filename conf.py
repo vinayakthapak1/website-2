@@ -24,7 +24,7 @@ SITE_URL = "https://askomics.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://askomics.org/"
-BLOG_EMAIL = "askomics_user@inria.fr"
+BLOG_EMAIL = ""
 BLOG_DESCRIPTION = "AskOmics website"  # (translatable)
 
 # Nikola is multilingual!
