@@ -20,4 +20,4 @@ You can join the <a href='mailto:askomics-users@inria.fr?Subject=subscribe&body=
 
 ## Contact
 
-<a href='mailto:xavier.garnier@irisa.fr?Subject=[askomics] help'>Xavier Garnier</a>
+<a href='mailto:askomics@irisa.fr?Subject=[askomics] help'>AskOmics team</a>
