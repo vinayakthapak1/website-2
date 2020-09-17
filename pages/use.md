@@ -40,7 +40,7 @@ This page lists platforms where you can use or deploy your own AskOmics with min
     <tr>
       <td><a href="https://nextprot.askomics.org">nextprot.askomics.org</a></th>
       <td>AskOmics linked to <a href="https://sparql.nextprot.org">neXtProt</a> endpoint</td>
-      <td><a href="https://www.sfbi.fr/sites/sfbi.fr/files/jobim/jobim2020/posters/compressed/jobim2020_poster_155.pdf">Jobim poster</a></td>
+      <td><a href="https://www.sfbi.fr/sites/sfbi.fr/files/jobim/jobim2020/posters/compressed/jobim2020_poster_155.pdf">Jobim 2020 poster</a></td>
     </tr>
     <tr>
       <td><a href="https://uniprot.askomics.org">uniprot.askomics.org</a></th>
@@ -48,30 +48,14 @@ This page lists platforms where you can use or deploy your own AskOmics with min
       <td>-</td>
     </tr>
     <tr>
+      <td><a href="https://bbip.askomics.org">bbip.askomics.org</a></th>
+      <td>AskOmics loaded with <a href="https://bbip.genouest.org/is/"><i>Brassica</i> genomic and metabolic data</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
       <td><a href="https://atacama.askomics.org">atacama.askomics.org</a></th>
       <td>AskOmics loaded with Atacama desert dataset and queries</td>
       <td>-</td>
-    </tr>
-  </tbody>
-</table>
-
-### Cloud
-
-<table class="table table-borderless">
-  <thead>
-    <tr>
-      <th scope="col">Cloud</th>
-      <th scope="col">Summary</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://genostack.genouest.org">Genocloud</a></th>
-      <td>Private cloud of the <a href="https://genouest.org">Genouest</a> bioinformatics platform</td>
-    </tr>
-    <tr>
-      <td><a href="https://biosphere.france-bioinformatique.fr/catalogue/appliance/166/">IFB cloud</a></td>
-      <td><a href="https://www.france-bioinformatique.fr/">IFB</a> Federated cloud platform</td>
     </tr>
   </tbody>
 </table>
@@ -97,5 +81,27 @@ This page lists platforms where you can use or deploy your own AskOmics with min
       <td>RDF version of <a href="http://regulatorycircuits.org/">regulatory circuit</a> made with AskOmics with pipeline and results</td>
       <td>Paper in progress</td>
     </tr>
+  </tbody>
+</table>
+
+
+### Cloud
+
+<table class="table table-borderless">
+  <thead>
+    <tr>
+      <th scope="col">Cloud</th>
+      <th scope="col">Summary</th>
+    </tr>
+  </thead>
+  <tbody>
+      <td><a href="https://biosphere.france-bioinformatique.fr/catalogue/appliance/166/">IFB cloud</a></td>
+      <td><a href="https://www.france-bioinformatique.fr/">IFB</a> Federated cloud platform</td>
+    </tr>
+    <tr>
+      <td><a href="https://genostack.genouest.org">Genocloud</a></th>
+      <td>Private cloud of the <a href="https://genouest.org">Genouest</a> bioinformatics platform</td>
+    </tr>
+    <tr>
   </tbody>
 </table>
