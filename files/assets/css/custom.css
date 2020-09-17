@@ -20,3 +20,24 @@ footer#footer {
 .footer-right {
     float: right;
 }
+
+/* Fork me link */
+a.github-account:link {
+	color: rgba(255,255,255,.75);
+	text-decoration: none;
+}
+
+a.github-account:visited {
+	color: rgba(255,255,255,.75);
+	text-decoration: none;
+}
+
+a.github-account:hover {
+	color: rgba(255,255,255,.75);
+	text-decoration: none;
+}
+
+a.github-account:active {
+	color: rgba(255,255,255,.75);
+	text-decoration: none;
+}
