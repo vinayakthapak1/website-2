@@ -32,13 +32,59 @@
   </p>
   <hr class="my-3">
   <p>
-    AskOmics aims at bridging the gap between both end user project-specific datasets and with reference databes and knowledge bases from the Linked (Open) Data cloud. It allows heterogeneous bioinformatics data (formatted as tabular files or native RDF files) to be loaded into an RDF triplestore and then be transparently and interactively queried.
+    AskOmics aims at bridging the gap between both end user project-specific datasets and with
+    reference databes and knowledge bases from the Linked (Open) Data cloud. It allows heterogeneous
+    bioinformatics data (formatted as tabular files or native RDF files) to be loaded into an RDF triplestore
+    and then be transparently and interactively queried through a user-friendly interface.
   </p>
-  <a class="btn btn-secondary btn-lg" href="/use/" role="button">Use »</a>
-  <a class="btn btn-secondary btn-lg" href="/learn/" role="button">Learn »</a>
-  <a class="btn btn-secondary btn-lg" href="/deploy/" role="button">Deploy »</a>
 
+  <table class="table table-borderless">
+    <tr>
+      <td style="text-align: center"><img style="margin: 0 0 0 0" src="images/schema.png" alt="AskOmics schema" height="400"></td>
+      <td style="text-align: center"><img style="margin: 0 0 0 0" src="images/screenshot.png" alt="AskOmics screenshot" height="400"></td>
+    </tr>
+  </table>
+
+  <p>
+    Interested in using AskOmics? 
+  <ul>
+    <li>
+      The
+      <a href="https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-analysis-with-askomics-it/tutorial">
+        RNA-Seq analysis with AskOmics Interactive Tool
+      </a> Galaxy tutorial is a good entrypoint to learn the basics of AskOmics
+    </li>
+    <li>The
+      <a href="https://flaskomics.readthedocs.io">
+      AskOmics tutorials
+    </a> will teach you how to use AskOmics with your own data
+    </li>
+    <li>
+      The
+      <a href="https://flaskomics.readthedocs.io/en/4.0.0/production-deployment/">
+        deployment documentation
+      </a> allow you to host your own AskOmics instance
+    </li>
+  </ul>
+  </p>
+
+  <p>
+    AskOmics is a free and open source software under the <a href="https://github.com/askomics/flaskomics/blob/master/LICENSE">AGPL-3.0 License</a>.
+    All the sources are hosted on the <a href="https://github.com/askomics">AskOmics GitHub organization</a>.
+  </p>
 </div>
 
 We acknowledge the [GenOuest bioinformatics core facility](https://www.genouest.org/) for providing the computing infrastructure. And the research teams of the authors of this project: [Dyliss](https://www-dyliss.irisa.fr/), [Genscale](https://team.inria.fr/genscale/) and [Igepp](https://www6.rennes.inrae.fr/igepp).
+
+<table class="table table-borderless">
+  <tr>
+    <td style="text-align: center"><img style="margin: 0 0 0 0" src="images/dyliss.png" alt="Dyliss logo" height="50"></td>
+    <td style="text-align: center"><img style="margin: 0 0 0 0" src="images/genouest.png" alt="Genouest logo" height="50"></td>
+    <td style="text-align: center"><img style="margin: 0 0 0 0" src="images/genscale.png" alt="Genscale logo" height="50"></td>
+    <td style="text-align: center"><img style="margin: 0 0 0 0" src="images/inrae.png" alt="INRAE logo" height="50"></td>
+  </tr>
+</table>
+
+
+
 
