@@ -139,12 +139,12 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/use/", "Use"),
-        ("/learn/", "Learn"),
-        ("/deploy/", "Deploy"),
-        ("/docs/", "Docs"),
-        ("/news/", 'News'),
-        ("/contact/", 'Contact')
+        ("/use/", "<i class='fas fa-play'></i> Use"),
+        ("/learn/", "<i class='fas fa-graduation-cap'></i> Learn"),
+        ("/deploy/", "<i class='fab fa-docker'></i> Deploy"),
+        ("/docs/", "<i class='fas fa-book'></i> Docs"),
+        ("/news/", "<i class='fas fa-newspaper'></i> News"),
+        ("/contact/", "<i class='fas fa-envelope'></i> Contact")
     ),
 }
 
