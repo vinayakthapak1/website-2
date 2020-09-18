@@ -23,20 +23,33 @@ This page lists platforms where you can use or deploy your own AskOmics with min
     <tr>
       <th scope="col">Instance</th>
       <th scope="col">Summary</th>
-      <th scope="col">Related paper</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://use.askomics.org">use.askomics.org</a></th>
       <td>The main AskOmics server</td>
-      <td>-</td>
     </tr>
     <tr>
       <td><a href="https://test.askomics.org">test.askomics.org</a></th>
       <td>Testing AskOmics server, unstable</td>
-      <td>-</td>
     </tr>
+  </tbody>
+</table>
+
+### Thematic instances
+
+
+
+<table class="table table-borderless">
+  <thead>
+    <tr>
+      <th scope="col">Instance</th>
+      <th scope="col">Summary</th>
+      <th scope="col">Related paper</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><a href="https://nextprot.askomics.org">nextprot.askomics.org</a></th>
       <td>Linked to <a href="https://sparql.nextprot.org">neXtProt</a> endpoint</td>
@@ -54,7 +67,7 @@ This page lists platforms where you can use or deploy your own AskOmics with min
     </tr>
     <tr>
       <td><a href="https://tisochrisis.askomics.org">tisochrisis.askomics.org</a></th>
-      <td>Loaded with <i>Tisochrisis lutea</i> metabolic network</td>
+      <td>Loaded with <a href="http://gem-aureme.irisa.fr/tisogem/index.php/Main_Page"><i>Tisochrisis lutea</i> metabolic network</a></td>
       <td><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006146">Aite <i>et al.</i> 2018</a></td>
     </tr>
     <tr>
