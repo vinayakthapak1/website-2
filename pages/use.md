@@ -39,22 +39,27 @@ This page lists platforms where you can use or deploy your own AskOmics with min
     </tr>
     <tr>
       <td><a href="https://nextprot.askomics.org">nextprot.askomics.org</a></th>
-      <td>AskOmics linked to <a href="https://sparql.nextprot.org">neXtProt</a> endpoint</td>
+      <td>Linked to <a href="https://sparql.nextprot.org">neXtProt</a> endpoint</td>
       <td><a href="https://www.sfbi.fr/sites/sfbi.fr/files/jobim/jobim2020/posters/compressed/jobim2020_poster_155.pdf">Jobim 2020 poster</a></td>
     </tr>
     <tr>
       <td><a href="https://uniprot.askomics.org">uniprot.askomics.org</a></th>
-      <td>AskOmics linked to <a href="https://sparql.uniprot.org">Uniprot</a> endpoint</td>
+      <td>Linked to <a href="https://sparql.uniprot.org">Uniprot</a> endpoint</td>
       <td>-</td>
     </tr>
     <tr>
       <td><a href="https://bbip.askomics.org">bbip.askomics.org</a></th>
-      <td>AskOmics loaded with <a href="https://bbip.genouest.org/is/"><i>Brassica</i> genomic and metabolic data</a></td>
+      <td>Loaded with <a href="https://bbip.genouest.org/is/"><i>Brassica</i> genomic and metabolic data</a></td>
       <td>-</td>
     </tr>
     <tr>
+      <td><a href="https://tisochrisis.askomics.org">tisochrisis.askomics.org</a></th>
+      <td>Loaded with <i>Tisochrisis lutea</i> metabolic network</td>
+      <td><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006146">Aite <i>et al.</i> 2018</a></td>
+    </tr>
+    <tr>
       <td><a href="https://atacama.askomics.org">atacama.askomics.org</a></th>
-      <td>AskOmics loaded with Atacama desert dataset and queries</td>
+      <td>Loaded with Atacama desert dataset and queries</td>
       <td>-</td>
     </tr>
   </tbody>
