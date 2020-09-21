@@ -81,6 +81,9 @@ We acknowledge the [GenOuest bioinformatics core facility](https://www.genouest.
     <td style="text-align: center"><img style="margin: 0 0 0 0" src="images/dyliss.png" alt="Dyliss logo" height="50"></td>
     <td style="text-align: center"><img style="margin: 0 0 0 0" src="images/genouest.png" alt="Genouest logo" height="50"></td>
     <td style="text-align: center"><img style="margin: 0 0 0 0" src="images/genscale.png" alt="Genscale logo" height="50"></td>
+    <td style="text-align: center"><img style="margin: 0 0 0 0" src="images/inria.png" alt="Inria logo" height="50"></td>
+    <td style="text-align: center"><img style="margin: 0 0 0 0" src="images/cnrs.svg" alt="CNRS logo" height="50"></td>
+    <td style="text-align: center"><img style="margin: 0 0 0 0" src="images/univ_rennes_1.png" alt="UR1 logo" height="50"></td>
     <td style="text-align: center"><img style="margin: 0 0 0 0" src="images/inrae.png" alt="INRAE logo" height="50"></td>
   </tr>
 </table>
