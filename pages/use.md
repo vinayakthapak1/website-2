@@ -70,11 +70,6 @@ This page lists platforms where you can use or deploy your own AskOmics with min
       <td>Loaded with <a href="http://gem-aureme.irisa.fr/tisogem/index.php/Main_Page"><i>Tisochrisis lutea</i> metabolic network</a></td>
       <td><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006146">Aite <i>et al.</i> 2018</a></td>
     </tr>
-    <tr>
-      <td><a href="https://atacama.askomics.org">atacama.askomics.org</a></th>
-      <td>Loaded with Atacama desert dataset and queries</td>
-      <td>-</td>
-    </tr>
   </tbody>
 </table>
 

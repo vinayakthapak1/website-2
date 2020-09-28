@@ -34,7 +34,7 @@
   <p>
     AskOmics aims at bridging the gap between both end user project-specific datasets and with
     reference databes and knowledge bases from the Linked (Open) Data cloud. It allows heterogeneous
-    bioinformatics data (formatted as tabular files or native RDF files) to be loaded into an RDF triplestore
+    bioinformatics data (formatted as tabular files, GFF format or native RDF files) to be loaded into an RDF triplestore
     and then be transparently and interactively queried through a user-friendly interface.
   </p>
 
@@ -64,6 +64,11 @@
       <a href="https://flaskomics.readthedocs.io/en/4.0.0/production-deployment/">
         deployment documentation
       </a> allow you to host your own AskOmics instance
+    </li>
+    <li>
+      <a href="https://github.com/askomics/abstractor">
+        Abstractor
+      </a> can connect your instance with external SPARQL ressources
     </li>
   </ul>
   </p>

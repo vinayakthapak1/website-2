@@ -141,6 +141,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/use/", "<i class='fas fa-play'></i> Use"),
         ("/learn/", "<i class='fas fa-graduation-cap'></i> Learn"),
+        ("/constellation/", "<i class='fas fa-satellite'></i> Constellation"),
         ("/deploy/", "<i class='fab fa-docker'></i> Deploy"),
         ("/docs/", "<i class='fas fa-book'></i> Docs"),
         ("/news/", "<i class='fas fa-newspaper'></i> News"),
