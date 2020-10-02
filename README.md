@@ -5,7 +5,7 @@
 AskOmics website, build with [Nikola](https://getnikola.com/)
 
 
-## Installation
+## Installation Process
 
 ### Install dependencies
 
